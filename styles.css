@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top, .botton {
+    background-color: #212121;
+    color: #ffffff;
+}
+
+.nav, .suscripcion {
+    background-color: #f0a83e;
+    color: #ffffff;
+}
+
+.principal {
+    background-image: url(img/imagenBackground.jpg);
+    height: 770px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.comederos {
+    background-color: #f0a83e;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin: 0 45%;
+    width: 10%;
+}
+
+.contacto {
+    background-color: #3c2312;
+    color: #ffffff;
+}
+
+.botton {
+    text-align: center;
+}
